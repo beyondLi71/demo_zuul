@@ -3,4 +3,4 @@ pluginManagement {
 		gradlePluginPortal()
 	}
 }
-rootProject.name = 'demo-zuul'
+rootProject.name = 'zuul-demo'
